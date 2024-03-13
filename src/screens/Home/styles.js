@@ -7,8 +7,8 @@ const styles = StyleSheet.create({
         alignItems: "center",
     },
     button: {
-        padding: 10,
-        backgroundColor: "#f0f0f0",
+        padding: 20,
+        backgroundColor: "lightblue",
         margin: 10,
         borderRadius: 5,
     },
